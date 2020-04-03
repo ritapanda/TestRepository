@@ -1,3 +1,3 @@
-Описание проекта!!!
+Description of useless project!!!
 
 
